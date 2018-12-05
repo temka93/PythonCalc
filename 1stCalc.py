@@ -10,7 +10,7 @@ def func_y(x):
 
 
 def test_func():
-    assert func_y(3) == 1
+    assert func_y(3) == 2
 
 
 if __name__ == "__main__":
